@@ -49,7 +49,7 @@ tags: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 date: 2021-06-12T14:45:11.706Z
 url_slides: ""
