@@ -2,8 +2,8 @@
 title: dcp
 publication_types:
   - "2"
-draft: false
-featured: true
+draft: true
+featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
