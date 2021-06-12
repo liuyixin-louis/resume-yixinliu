@@ -9,7 +9,7 @@ content:
   # Page type to display. E.g. project.
   page_type: project
 design:
-  view: 2
+  view: 3
 # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
