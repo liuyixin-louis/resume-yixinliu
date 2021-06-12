@@ -4,7 +4,7 @@ widget_id: publications
 headless: true
 weight: 40
 title: Publications
-subtitle: Journal Paper
+subtitle: ""
 content:
   page_type: publication
   count: 0
