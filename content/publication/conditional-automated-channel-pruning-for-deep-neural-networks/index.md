@@ -36,7 +36,7 @@ draft: false
 featured: true
 projects: []
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: paper/cacp/cacp.pdf
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -56,5 +56,5 @@ date: 2021-06-12T14:45:11.706Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/liuyixin-louis/CACPpruner"
 ---
