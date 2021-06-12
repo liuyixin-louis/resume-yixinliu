@@ -2,7 +2,8 @@
 widget: pages
 widget_id: Recent News
 headless: true
-weight: 10
+weight: 30
+title: Recent News
 active: true
 design:
   columns: "2"
