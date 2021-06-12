@@ -1,6 +1,6 @@
 ---
 title: Yixin Liu
-role: Undergraduate in Artificial Intelligence
+role: Undergraduate in SCUT
 avatar_filename: avatar.jpg
 bio: My research interests include reinforce learning, model compression and
   combinatorial optimization.
@@ -21,6 +21,10 @@ social:
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=MYpC6agAAAAJ
 organizations:
+  - name: yixinliucs@gmail.com
+    url: mailto:yixinliucs@gmail.com
+  - name: Google Scholar
+    url: https://scholar.google.com.hk/citations?user=MYpC6agAAAAJ
   - name: South China University of Technology
     url: https://www.scut.edu.cn/en/
 education:
