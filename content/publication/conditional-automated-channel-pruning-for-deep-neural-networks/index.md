@@ -57,3 +57,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/liuyixin-louis/CACPpruner
 ---
+![](featured.jpg)
