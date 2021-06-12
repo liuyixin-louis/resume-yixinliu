@@ -3,7 +3,7 @@ title: dcp
 publication_types:
   - "2"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
