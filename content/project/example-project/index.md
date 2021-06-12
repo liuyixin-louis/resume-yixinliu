@@ -12,7 +12,7 @@ url_video: ""
 featured: true
 tags:
   - Data Mining
-external_link: https://www.csyixinliu.com/
+external_link: http://www.cips-chip.org.cn/2020/eval_result
 url_slides: ""
 links: []
 image:
