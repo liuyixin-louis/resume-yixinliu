@@ -16,7 +16,9 @@ main:
   - name: Honor & Award
     url: '#Honor & Award'
     weight: 40
-
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 70
 
 
 # - name: CV
