@@ -14,7 +14,7 @@ design:
 <!--StartFragment-->
 
 * Finalist Winner at 2021 MCM, 2021 
+* Oral Presentation at SEAI, 2021
 * National Scholarship, 2020
-* Oral Presentation at SEAI, 2020
 
 <!--EndFragment-->
