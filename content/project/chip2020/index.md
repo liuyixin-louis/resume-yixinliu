@@ -1,5 +1,5 @@
 ---
-slides: example
+# slides: example
 url_pdf: ""
 title: Covid-19 Prediction Model based on Huber Regression and Hierarchical Feature
 date: 2021-06-12T16:59:41.955Z
