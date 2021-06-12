@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Recent News
-    url: '#Recent News'
+    url: '#recent-news'
     weight: 20
   - name: Publications
-    url: '#Publications'
+    url: '#publication'
     weight: 30
   - name: Honor & Award
-    url: '#Honor & Award'
+    url: '#reward'
     weight: 40
   - name: CV
     url: materials/cv.pdf
