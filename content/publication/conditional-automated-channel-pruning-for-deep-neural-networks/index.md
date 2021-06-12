@@ -1,6 +1,6 @@
 ---
 title: Conditional Automated Channel Pruning for Deep Neural Networks
-subtitle: Accepted by IEEE SPL, 2020
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -37,7 +37,7 @@ featured: true
 projects: []
 slides: ""
 url_pdf: paper/cacp/cacp.pdf
-summary: ""
+summary: Accepted by IEEE SPL, 2020
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -50,7 +50,7 @@ tags:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
 date: 2021-06-12T14:45:11.706Z
 url_slides: ""
