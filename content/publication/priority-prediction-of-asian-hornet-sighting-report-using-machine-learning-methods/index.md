@@ -53,8 +53,8 @@ image:
   preview_only: true
   filename: 2021mcm.png
 date: 2021-06-12T15:43:11.444Z
-url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+url_slides: paper/seai2021/slide.pptx
+publishDate: 2021-06-11T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/liuyixin-louis/CACPpruner
+url_code: ""
 ---
