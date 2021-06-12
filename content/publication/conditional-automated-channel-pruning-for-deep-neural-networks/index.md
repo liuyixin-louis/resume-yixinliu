@@ -4,8 +4,11 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - admin
-  - Robert Ford
+  - Yixin Liu
+  - Yong Guo
+  - Jiaxin Guo
+  - Luoqian Jiang
+  - Jian Chen
 publication_short: ""
 abstract: Channel pruning has become one of the predominant compression methods
   to deploy deep models on resourceconstrained devices. Most channel pruning
