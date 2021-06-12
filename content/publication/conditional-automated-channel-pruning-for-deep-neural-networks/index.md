@@ -45,8 +45,7 @@ url_video: ""
 author_notes: []
 doi: Published in IEEE Signal Processing Letters
 publication: ""
-tags:
-  - Source Themes
+tags: []
 image:
   caption: ""
   focal_point: ""
