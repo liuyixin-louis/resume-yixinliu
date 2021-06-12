@@ -2,7 +2,7 @@
 widget: pages
 widget_id: reward
 headless: true
-weight: 30
+weight: 60
 title: Honor & Award
 active: true
 design:
