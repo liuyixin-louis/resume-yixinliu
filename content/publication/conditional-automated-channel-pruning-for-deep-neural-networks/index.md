@@ -37,7 +37,7 @@ featured: true
 projects: []
 slides: ""
 url_pdf: paper/cacp/cacp.pdf
-summary: Accepted by IEEE SPL, 2020
+summary: Accepted by IEEE SPL, 2021
 url_dataset: ""
 url_project: ""
 url_source: ""
