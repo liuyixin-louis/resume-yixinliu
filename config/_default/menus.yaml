@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  # - name: Recent News
-  #   url: '#Recent News'
-  #   weight: 20
-  # - name: Publications
-  #   url: '#Publications'
-  #   weight: 30
-  # - name: Honor & Award
-  #   url: '#Honor & Award'
-  #   weight: 40
-  # - name: CV
-  #   url: uploads/resume.pdf
-  #   weight: 70
+  - name: Recent News
+    url: '#Recent News'
+    weight: 20
+  - name: Publications
+    url: '#Publications'
+    weight: 30
+  - name: Honor & Award
+    url: '#Honor & Award'
+    weight: 40
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 70
 
 
 # - name: CV
