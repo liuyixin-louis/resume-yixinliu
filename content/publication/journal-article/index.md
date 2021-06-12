@@ -1,4 +1,11 @@
 ---
+title: An example journal article
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Robert Ford
+publication_short: ""
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
@@ -7,38 +14,32 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
+draft: true
+featured: false
+tags:
+  - Source Themes
 slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: "*Journal of Source Themes, 1*(1)"
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: ""
 url_source: ""
 url_video: ""
-title: An example journal article
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: ""
-featured: true
-tags:
-  - Source Themes
+publication: "*Journal of Source Themes, 1*(1)"
 projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
