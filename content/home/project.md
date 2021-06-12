@@ -3,7 +3,7 @@ widget: featured
 widget_id: project
 headless: true
 weight: 50
-title: Project
+title: Projects
 subtitle: ""
 content:
   # Page type to display. E.g. project.
