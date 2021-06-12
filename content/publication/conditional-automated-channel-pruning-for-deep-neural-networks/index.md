@@ -4,8 +4,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Yixin Liu
-  - Yong Guo
+  - Yixin Liu*
+  - Yong Guo*
   - Jiaxin Guo
   - Luoqian Jiang
   - Jian Chen
@@ -42,9 +42,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: ""
 publication: Published in IEEE Signal Processing Letters
 tags:
