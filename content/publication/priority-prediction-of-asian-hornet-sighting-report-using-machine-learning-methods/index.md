@@ -5,7 +5,7 @@ subtitle: Published in SEAI 2021
 publication_types:
   - "1"
 authors:
-  - "**Yixin Liu**"
+  - Yixin Liu*
   - Jiaxin Guo
   - Jieyang Dong
   - Luoqian Jiang
