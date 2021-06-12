@@ -8,19 +8,19 @@ summary: Rank [1st in the track 4 of
   presentation](https://www.bilibili.com/video/BV185411574p?p=52).
 authors:
   - Yixin Liu
-url_video: ""
+url_video: "https://www.bilibili.com/video/BV185411574p?p=52"
 featured: true
 tags:
   - Data Mining
 external_link: http://www.cips-chip.org.cn/2020/eval_result
-url_slides: ""
+url_slides: project/chip2020/slide.pdf
 links: []
 image:
   caption: ""
   focal_point: Smart
   filename: featured.png
   preview_only: true
-url_code: ""
+url_code: https://github.com/liuyixin-louis/chip2020_track4_lyx
 ---
 <!--StartFragment-->
 
