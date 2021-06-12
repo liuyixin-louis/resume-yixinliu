@@ -50,7 +50,7 @@ tags: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: 2021mcm.png
 date: 2021-06-12T15:43:11.444Z
 url_slides: paper/seai2021/slide.pptx
