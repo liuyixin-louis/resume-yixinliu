@@ -1,6 +1,6 @@
 ---
 title: Conditional Automated Channel Pruning for Deep Neural Networks
-subtitle: ""
+subtitle: Published in IEEE Signal Processing Letters
 publication_types:
   - "2"
 authors:
@@ -43,7 +43,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: Published in IEEE Signal Processing Letters
+doi: ""
 publication: ""
 tags: []
 image:
