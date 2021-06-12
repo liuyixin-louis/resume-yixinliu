@@ -5,7 +5,7 @@ subtitle: Published in SEAI 2021
 publication_types:
   - "1"
 authors:
-  - Yixin Liu
+  - "**Yixin Liu**"
   - Jiaxin Guo
   - Jieyang Dong
   - Luoqian Jiang
@@ -51,7 +51,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: featured
+  filename: 2021seai.jpg
 date: 2021-06-12T15:43:11.444Z
 url_slides: paper/seai2021/slide.pptx
 publishDate: 2021-06-11T00:00:00.000Z
