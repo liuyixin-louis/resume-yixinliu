@@ -32,7 +32,7 @@ abstract: Channel pruning has become one of the predominant compression methods
   compressed models that satisfy the computational constraints by limiting the
   action space. Extensive experiments on CIFAR-10 and ImageNet datasets
   demonstrate the superiority of our method over existing methods.
-draft: true
+draft: false
 featured: true
 projects: []
 slides: ""
@@ -50,7 +50,7 @@ tags:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 date: 2021-06-12T14:45:11.706Z
 url_slides: ""
