@@ -14,7 +14,7 @@ design:
 <!--StartFragment-->
 
 * Oral Presentation at SEAI in Xiamen, 2021
-* Finalist Winner at 2021 American Mathematical Contest in Modeling (MCM), 2021 
+* Finalist Winner at American Mathematical Contest in Modeling (MCM), 2021 
 * National Scholarship, 2020
 
 <!--EndFragment-->
