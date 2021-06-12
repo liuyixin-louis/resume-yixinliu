@@ -1,9 +1,9 @@
 ---
 widget: featured
-widget_id: publications
+widget_id: project
 headless: true
-weight: 40
-title: Publications
+weight: 50
+title: Project
 subtitle: ""
 content:
   # Page type to display. E.g. project.
