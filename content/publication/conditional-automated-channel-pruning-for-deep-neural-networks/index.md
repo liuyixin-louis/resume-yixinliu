@@ -51,9 +51,10 @@ image:
   focal_point: ""
   preview_only: true
   filename: featured.jpg
-date: 2021-06-12T14:45:11.706Z
+date: 2021-06-12T16:16:54.747Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/liuyixin-louis/CACPpruner
 ---
+![](featured.jpg)
