@@ -3,8 +3,8 @@ slides: example
 url_pdf: ""
 title: Covid-19 Prediction Model based on Huber Regression and Hierarchical Feature
 date: 2021-06-12T16:59:41.955Z
-summary: Rank [1st](http://www.cips-chip.org.cn/2020/eval_result) in the track 4
-  of CHIP2020 and give an [oral
+summary: Rank [1st in the track 4 of
+  CHIP2020](http://www.cips-chip.org.cn/2020/eval_result) and give an [oral
   presentation](https://www.bilibili.com/video/BV185411574p?p=52).
 authors:
   - Yixin Liu
