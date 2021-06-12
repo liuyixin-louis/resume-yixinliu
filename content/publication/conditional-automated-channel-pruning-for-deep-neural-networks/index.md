@@ -43,8 +43,8 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: ""
-publication: Published in IEEE Signal Processing Letters
+doi: Published in IEEE Signal Processing Letters
+publication: ""
 tags:
   - Source Themes
 image:
