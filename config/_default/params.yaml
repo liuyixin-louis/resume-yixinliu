@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: Ocean
 day_night: true
-font: ''
+font: Classic
 font_size: L
 
 # SEO
@@ -77,8 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
