@@ -53,7 +53,7 @@ image:
   preview_only: true
   filename: featured.jpg
 date: 2021-06-12T15:43:11.444Z
-url_slides: paper/seai2021/slide.pptx
+url_slides: paper/seai2021/slide_seai2021.pdf
 publishDate: 2021-06-11T00:00:00.000Z
 url_poster: ""
 url_code: ""

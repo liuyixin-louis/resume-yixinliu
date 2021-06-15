@@ -13,7 +13,7 @@ featured: true
 tags:
   - Data Mining
 external_link: http://www.cips-chip.org.cn/2020/eval_result
-url_slides: project/chip2020/slide.pdf
+url_slides: project/chip2020/slide_chip2020.pdf
 links: []
 image:
   caption: ""
