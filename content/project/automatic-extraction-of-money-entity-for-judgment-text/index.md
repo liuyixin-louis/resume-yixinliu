@@ -10,13 +10,13 @@ title: Automatic Extraction of Money Entity for Judgment Text
 featured: true
 tags:
   - Data Mining
-external_link: https://github.com/liuyixin-louis/chip2020_track4_lyx
+external_link: .
 url_slides: project/chip2020/slide_chip2020.pdf
 links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: feature.png
+  filename: featured.jpg
   preview_only: true
 url_code: https://github.com/liuyixin-louis/chip2020_track4_lyx
 ---
