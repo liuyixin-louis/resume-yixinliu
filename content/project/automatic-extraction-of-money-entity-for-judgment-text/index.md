@@ -5,20 +5,20 @@ summary: One software copyright, one set of software delivered to Southern Big
   Data Company
 authors:
   - Yixin Liu
-url_video: https://www.bilibili.com/video/BV185411574p?p=52
+# url_video: https://www.bilibili.com/video/BV185411574p?p=52
 title: Automatic Extraction of Money Entity for Judgment Text
 featured: true
 tags:
   - Data Mining
 external_link: https://github.com/liuyixin-louis/chip2020_track4_lyx
-url_slides: project/chip2020/slide_chip2020.pdf
+# url_slides: project/chip2020/slide_chip2020.pdf
 links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: feature.png
+  filename: featured.jpg
   preview_only: true
-url_code: https://github.com/liuyixin-louis/chip2020_track4_lyx
+# url_code: https://github.com/liuyixin-louis/chip2020_track4_lyx
 ---
 <!--StartFragment-->
 
