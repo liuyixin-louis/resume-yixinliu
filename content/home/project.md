@@ -7,7 +7,7 @@ title: Projects
 subtitle: ""
 content:
   # Page type to display. E.g. project.
-  page_type: publication
+  page_type: project
 design:
   view: 2
 # For Showcase view, flip alternate rows?

@@ -28,7 +28,7 @@ abstract: "As infamous invader to the North American ecosystem, the Asian giant
   based on machine learning. We model the problem of optimal prioritization of
   sighting reports as a problem of classification and prediction. We extracted a
   variety of rich features in the report: location, time, image(s), and textual
-  description. Based on these characteristics, we propose a classification model
+description. Based on these characteristics, we propose a classification model
   based on logistic regression to predict the credibility of a certain report.
   Furthermore, our model quantifies the impact between reports to get the
   priority ranking of the reports. Extensive experiments on the WSDA public
