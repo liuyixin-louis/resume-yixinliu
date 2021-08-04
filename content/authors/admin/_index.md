@@ -31,7 +31,10 @@ education:
   courses:
     - course: "BSc in Software Engineering "
       institution: South China University of Technology
-      year: 2022
+      year: ""
+    - course: M.Sc in Computer Science
+      institution: Tsinghua Shenzhen International Graduate School (Tsinghua SIGS)
+      year: ""
 email: yixinliucs@gmail.com
 superuser: true
 user_groups: []
