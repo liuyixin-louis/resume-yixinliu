@@ -37,4 +37,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Yixin Liu is an undergraduate from the School of Software of South China University of Technology and is currently in his junior year. His research interests include reinforcement learning, model compression and combinatorial optimization. In terms of scientific research experience, he used to work in [IAIS ](http://www2.scut.edu.cn/huanghan/)and [SMIL](https://www2.scut.edu.cn/sse/2018/0615/c16788a270752/page.htm).
+Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his junior year. His research interests include reinforcement learning, model compression and combinatorial optimization. In terms of scientific research experience, he used to work in [IAIS ](http://www2.scut.edu.cn/huanghan/)and [SMIL](https://www2.scut.edu.cn/sse/2018/0615/c16788a270752/page.htm).
