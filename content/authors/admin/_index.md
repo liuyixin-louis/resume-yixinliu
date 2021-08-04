@@ -29,12 +29,11 @@ organizations:
     url: https://www.scut.edu.cn/en/
 education:
   courses:
-    - course: M.Sc in Computer Science
-      institution: Tsinghua Shenzhen International Graduate School (Tsinghua SIGS),
-        2022~2025
+    - course: M.Sc in Computer Science, 2022~2025
+      institution: Tsinghua Shenzhen International Graduate School (Tsinghua SIGS)
       year: ""
-    - course: "BSc in Software Engineering "
-      institution: South China University of Technology (SCUT), 2018~2022
+    - course: BSc in Software Engineering, 2018~2022
+      institution: South China University of Technology (SCUT)
       year: ""
 email: yixinliucs@gmail.com
 superuser: true
