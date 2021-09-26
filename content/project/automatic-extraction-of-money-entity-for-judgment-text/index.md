@@ -9,7 +9,7 @@ authors:
   - Yixin Liu
 tags:
   - Data Mining
-external_link: https://github.com/liuyixin-louis/chip2020_track4_lyx
+external_link: https://gitee.com/southernbigdata/amount-withdrawal
 links: []
 image:
   caption: ""
