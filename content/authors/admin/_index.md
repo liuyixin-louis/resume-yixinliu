@@ -2,9 +2,10 @@
 title: Yixin Liu
 role: Undergraduate in SCUT
 avatar_filename: avatar.jpg
-bio: My research interests include reinforce learning.
+bio: My research interests lies in RL and Security.
 interests:
   - Reinforcement Learning
+  - Security
 social:
   - display:
       header: false
@@ -34,4 +35,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interests include reinforcement learning.
+Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interest lies in RL and Security.
