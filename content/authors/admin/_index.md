@@ -2,12 +2,9 @@
 title: Yixin Liu
 role: Undergraduate in SCUT
 avatar_filename: avatar.jpg
-bio: My research interests include reinforce learning, model compression and
-  combinatorial optimization.
+bio: My research interests include reinforce learning.
 interests:
   - Reinforcement Learning
-  - Model Compression
-  - Combinatorial Optimization
 social:
   - display:
       header: false
@@ -37,4 +34,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interests include reinforcement learning and combinatorial optimization.
+Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interests include reinforcement learning.
