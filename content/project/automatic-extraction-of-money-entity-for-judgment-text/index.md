@@ -1,5 +1,4 @@
 ---
-url_pdf: ""
 title: Automatic Extraction of Money Entity for Judgment Text
 date: 2021-07-04T02:16:21.016Z
 summary: One software copyright authorized. A software package delivered to
