@@ -37,15 +37,15 @@ draft: false
 featured: true
 projects: []
 slides: ""
-url_pdf: https://ieeexplore.ieee.org/document/9477549
-summary: Accepted by SEAI, 2021
+url_pdf: project/2021mcm/finalist_paper.pdf
+summary: Finalist in 2021 MCM; Accepted by 2021 SEAI;
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: ""
+publication: https://ieeexplore.ieee.org/document/9477549
 tags: []
 image:
   caption: ""
