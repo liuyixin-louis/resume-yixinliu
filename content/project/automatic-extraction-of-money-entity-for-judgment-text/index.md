@@ -11,15 +11,13 @@ tags:
   - Data Mining
 external_link: http://47.119.188.215:7080/money_tool
 links: []
+url_code: https://gitee.com/louis-yx/money-extract/
+url_pdf: project/money/money.pdf
 image:
   caption: ""
   focal_point: Smart
   filename: featured.jpg
   preview_only: true
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
 In actual legal business requirements, the extraction of the principal, interest and other amount fields in the legal loan judgment document is usually completed manually, which is time-consuming and labor-intensive. This project combines NLP technology to propose a BERT-based legal loan judgment document amount entity extraction model to realize the automatic extraction of ten types of amount entities.
 

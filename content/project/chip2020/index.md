@@ -24,7 +24,7 @@ url_code: https://github.com/liuyixin-louis/chip2020_track4_lyx
 ---
 <!--StartFragment-->
 
-In the COVID-19 prediction and evaluation competition at the 6th China Health Information Processing Conference, given the time series data and regional characteristic data of confirmed cases in three regions, we need to predict the confirmed cases for the next 7 days. 
+In the COVID-19 prediction and evaluation competition at the 6th China Health Information Processing Conference, given the time series data and regional characteristic data of confirmed cases in three regions, we need to predict the confirmed cases for the next 7 days.
 
 Our work:
 
