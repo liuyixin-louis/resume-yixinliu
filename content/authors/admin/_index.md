@@ -35,4 +35,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interest lies in RL and ML.
+Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interest lies in RL and ML. During his undergraduate period, he conducted academic research under the guidance of Prof. [Chen Jian](https://www2.scut.edu.cn/sse/2018/0615/c16788a270752/page.htm) and Prof. [Huang Han](http://www2.scut.edu.cn/huanghan/hh/list.htm).
