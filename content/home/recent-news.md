@@ -4,7 +4,7 @@ widget_id: Recent News
 headless: true
 weight: 30
 title: Recent News
-active: true
+active: false
 design:
   columns: "2"
   background:
