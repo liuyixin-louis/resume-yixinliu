@@ -19,7 +19,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=MYpC6agAAAAJ
 organizations:
-  - name: yixinliucs@gmail.com
+  - name: yixinliucs[AT]gmail.com
     url: mailto:yixinliucs@gmail.com
   - name: Google Scholar
     url: https://scholar.google.com.hk/citations?user=MYpC6agAAAAJ
