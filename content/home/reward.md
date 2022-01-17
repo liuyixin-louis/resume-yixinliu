@@ -14,7 +14,7 @@ design:
 <!--StartFragment-->
 
 * National Scholarship, 2021
-* Finalist Winner at American Mathematical Contest in Modeling (MCM), 2021 
+* [Finalist Winner](https://www.csyixinliu.com/materials/2021mcm_f.pdf), American Mathematical Contest in Modeling (MCM), 2021 
 * National Scholarship, 2020
 
 <!--EndFragment-->
