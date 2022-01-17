@@ -38,7 +38,7 @@ featured: true
 projects: []
 slides: ""
 url_pdf: project/2021mcm/finalist_paper.pdf
-summary: Finalist in 2021 MCM; Accepted by 2021 SEAI;
+summary: Finalist in 2021 MCM (535/26112=2.05%); Accepted by 2021 SEAI;
 url_dataset: ""
 url_project: ""
 url_source: ""
