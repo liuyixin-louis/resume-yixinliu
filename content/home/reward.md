@@ -13,8 +13,9 @@ design:
 ---
 <!--StartFragment-->
 
-* National Scholarship, 2021
-* [Finalist Winner](https://www.csyixinliu.com/materials/2021mcm_f.pdf), American Mathematical Contest in Modeling (MCM), 2021 
-* National Scholarship, 2020
+* National Scholarship, 2021 (**6/286≈2.09%**)
+* [Finalist Winner](https://www.csyixinliu.com/materials/2021mcm_f.pdf), American Mathematical Contest in Modeling (MCM), 2021  **(284/10061≈2.82%)**
+* National Scholarship, 2020 (**6/286≈2.09%**)
+* F
 
 <!--EndFragment-->
