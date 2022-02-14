@@ -1,8 +1,9 @@
 ---
 widget: pages
-widget_id: RECENT-POSTS
+widget_id: Recent-Posts
 headless: true
 weight: 25
+title: Recent Posts
 active: true
 design:
   columns: "2"
