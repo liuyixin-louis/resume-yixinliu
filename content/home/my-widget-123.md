@@ -1,6 +1,6 @@
 ---
-widget: Post
-widget_id: my-widget-123
+widget: Content Feed
+widget_id: RECENT-POSTS
 headless: true
 weight: 10
 active: true
