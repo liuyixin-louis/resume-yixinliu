@@ -1,5 +1,5 @@
 ---
-widget: Content Feed
+widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
