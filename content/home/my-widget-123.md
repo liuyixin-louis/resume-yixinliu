@@ -2,7 +2,7 @@
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
-weight: 10
+weight: 25
 active: true
 design:
   columns: "2"
