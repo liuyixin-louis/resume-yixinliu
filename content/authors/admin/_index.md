@@ -4,7 +4,8 @@ role: Undergraduate in SCUT
 avatar_filename: avatar.jpg
 bio: My research interests lies in RL and ML.
 interests:
-  - Reinforcement Learning
+  - Robust Reinforcement Learning
+  - AI Security & Privacy
   - Machine Learning
 social:
   - display:
@@ -35,4 +36,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. His research interest lies in RL and ML. During his undergraduate period, he conducted academic research under the guidance of Prof. [Chen Jian](https://www2.scut.edu.cn/sse/2018/0615/c16788a270752/page.htm) and Prof. [Huang Han](http://www2.scut.edu.cn/huanghan/hh/list.htm).
+Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. He is about to go to the CSE department at Lehigh University to pursue his Ph.D. degree, advised by Dr. [Lichao Sun](https://www.cs.uic.edu/~lsun/). His current research interest lies in robust RL and AI security & privacy.
