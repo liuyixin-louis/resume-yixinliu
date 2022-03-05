@@ -16,14 +16,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/liuyixin-louis
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com.hk/citations?user=MYpC6agAAAAJ
 organizations:
   - name: yixinliucs[AT]gmail.com
     url: mailto:yixinliucs@gmail.com
-  - name: Google Scholar
-    url: https://scholar.google.com.hk/citations?user=MYpC6agAAAAJ
   - name: South China University of Technology
     url: https://www.scut.edu.cn/en/
 education:
