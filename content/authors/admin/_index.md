@@ -31,4 +31,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. He is about to go to the CSE department at Lehigh University to pursue his Ph.D. degree, advised by Dr. [Lichao Sun](https://www.cs.uic.edu/~lsun/). His current research interest lies in robust RL and AI security & privacy.
+Yixin Liu (刘奕鑫) is an undergraduate from the School of Software of South China University of Technology and is currently in his senior year. He is about to go to the CSE department at Lehigh University to pursue his Ph.D. degree, advised by Dr. [Lichao Sun](https://www.cs.uic.edu/~lsun/). His current research interest lies in robust RL and AI security & privacy. We are currently working on reinforcement learning and adversarial learning.
