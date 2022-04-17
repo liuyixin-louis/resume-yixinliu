@@ -17,8 +17,8 @@ social:
     icon_pack: fab
     link: https://github.com/liuyixin-louis
 organizations:
-  - name: yixinliucs[AT]gmail.com
-    url: mailto:yixinliucs@gmail.com
+  - name: yila22[AT]lehigh.edu
+    url: ""
   - name: South China University of Technology
     url: https://www.scut.edu.cn/en/
 education:
@@ -26,7 +26,7 @@ education:
     - course: BSc in Software Engineering, 2018~2022
       institution: South China University of Technology (SCUT)
       year: ""
-email: yixinliucs@gmail.com
+email: yila22@lehigh.edu
 superuser: true
 user_groups: []
 highlight_name: false
