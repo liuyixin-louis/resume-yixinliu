@@ -19,7 +19,7 @@ main:
   - name: Projects
     url: '#project'
     weight: 40
-  - name: Honor & Award & Service
+  - name: Honor & Award
     url: '#reward'
     weight: 50
   - name: CV
