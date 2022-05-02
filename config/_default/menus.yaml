@@ -7,8 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Recent News
-    url: '#recent-news'
+#  - name: Recent News
+#    url: '#recent-news'
+#    weight: 20
+  - name: Posts
+    url: https://www.zhihu.com/people/lyx-55-20/posts
     weight: 20
   - name: Publications
     url: '#publications'
@@ -16,7 +19,7 @@ main:
   - name: Projects
     url: '#project'
     weight: 40
-  - name: Honor & Award
+  - name: Honor & Award & Service
     url: '#reward'
     weight: 50
   - name: CV
