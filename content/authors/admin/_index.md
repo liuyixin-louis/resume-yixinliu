@@ -2,11 +2,9 @@
 title: Yixin Liu
 role: Undergraduate in SCUT
 avatar_filename: avatar.jpg
-bio: My research interests lies in RL and ML.
+bio: My research interests lies in Data Mining.
 interests:
-  - Robust Reinforcement Learning
-  - AI Security & Privacy
-  - Machine Learning
+  - Data Mining
 social:
   - display:
       header: false
