@@ -1,0 +1,215 @@
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% Github : https://github.com/xprilion
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Yixin Liu}} & Email: \href{mailto:}{yila22@lehigh.edu}\\
+  \href{https://csyixinliu.com}{Homepage: csyixinliu.com} & Mobile:~~~+86-199-2752-2401 \\
+  \href{https://github.com/liuyixin-louis/}{Github: ~~github.com/liuyixin-louis} \\
+\end{tabular*}
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {South China University of Technology}{Guangdong, China}
+      {BEng. - Software Engineering;  GPA: 3.82/4.00; Ranking: Top4\%;  }{Sep 2018 - July 2022}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Principles of Compiler (98), Probability And Statistics (100), Calculus (97), Linear Algebra (94), Operating
+System (90), Artificial Intelligence (93), Algorithm Design and Analysis (91), Data Mining (91), Software design(91)}}}
+    \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{Pests in the Nest, Under Arrest:
+A Hornet Sighting Report Evaluation System}{I lead the team to design a hornet sighting report system based on ML method and the paper achieve \textit{Finalist} in 2021 MCM. [\href{https://www.csyixinliu.com/project/2021mcm/finalist_paper.pdf}{PAPER}, \href{https://www.csyixinliu.com/materials/2021mcm_f.pdf}{PROOF}](Apr '21)}
+\vspace{2pt}
+\resumeSubItem{Bert-based Legal Judgment Document Amount Entity Extraction Model}{Design a system based on BERT to conduct amount entity extraction.[\href{https://www.csyixinliu.com/materials/software_copyright_money.pdf}{COPYRIGHT}, \href{http://47.119.188.215:7080/money_tool}{DEMO}]
+(Nov '20)}
+\vspace{2pt}
+\resumeSubItem{Covid-19 Prediction Model based on Huber Regression and Hierarchical Feature}{Design hierarchical classification feature coding scheme and design algorithm based on Huber Regression. We achieve championship in this race. [\href{https://www.bilibili.com/video/BV185411574p?p=52}{TALK}, \href{http://www.cips-chip.org.cn/2020/eval_result}{RESULT}](Oct '20)}
+\vspace{2pt}
+
+% \vspace{2pt}
+% \resumeSubItem{Panorama from Satellite Imagery using Distributed Computing (Distributed Computing, Image Processing)}{Images clicked using drones, provided by ISRO were stitched together using distributed public compute nodes, effectively bringing down processing time exponentially. Tech: PHP, C++, Java, Python (March '18)}
+% \vspace{2pt}
+% \resumeSubItem{Drag-n-drop machine learning learning environment (Web Development, Machine Learning)}{Scratch like tool for implementing machine learning pipelines along with built in tutorial for each concept. Tech: Python, JavaScript (September '18)}
+% \vspace{2pt}
+% \resumeSubItem{Search Engine and Social Network(Web Development, Web Crawler, Search)}{Created from scratch a social network and a search engine based on the idea of integrating Facebook and Google. The launched website was among top 1000 websites in India during 2012-2013. Tech: PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)}
+\resumeSubHeadingListEnd
+
+\vspace{-5pt}
+\section{Publications}
+\resumeSubHeadingListStart
+\resumeSubItem{\href{https://ieeexplore.ieee.org/document/9453104}{Conditional Automated Channel Pruning for Deep Neural Networks}}{IEEE SPL. June 2021.}
+\vspace{5pt}
+\resumeSubItem{\href{https://ieeexplore.ieee.org/document/9477549}{Priority Prediction of Sighting Report Using Machine Learning Methods}}{IEEE SEAI. April 2021.}
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------Awards-----------------
+\section{Honors and Awards}
+\begin{description}[font=$\bullet$]
+\item {Outstanding Undergraduate Thesis - June, 2022 [\textbf{12/271$\approx$4\%}]}
+\vspace{-2pt}
+\item {National Scholarship $\times 2$ - 2021/2022 [\textbf{1/71$\approx$1.4\%}]}
+\vspace{-2pt}
+\item {\textit{Finalist} at 2021 American Mathematical Contest in Modeling - April, 2021 [\textbf{284/10061$\approx$2.82\%}]}
+\vspace{-2pt}
+\item {\textit{Provincial First Prize} at Contemporary Undergraduate Mathematical Contest in Modeling - Oct, 2020 }
+\vspace{-2pt}
+% \vspace{-5pt}
+\item {\textit{Provincial Second Prize} at National Mathematics Competition for College Students - Oct, 2020 }
+\vspace{-2pt}
+% \vspace{-5pt}
+\item {\textit{Champion} at the 6th China Health Information Processing Conference (Evaluation 4) - Nov, 2020.}
+\vspace{-2pt}
+% \vspace{-5pt}
+\item {\textit{Runner-up} at National Undergraduate Software Practice and Innovation Ability Competition - Nov, 2020.}
+\vspace{-2pt}
+% \vspace{-5pt}
+\item {SCUT Premium Scholarship - Sep, 2019.}
+% \vspace{-5pt}
+\end{description}
+	  
+
+
+\vspace{-5pt}
+\section{Skills/Qualification}
+	\resumeSubHeadingListStart
+    \resumeItem{English}{~~~~~~~~~~CET-4(598) / CET-6(537) / TOEFL(83)}
+	\resumeSubItem{Languages}{~~~~~~Python, C++, HTML, JS}
+	\resumeSubItem{Frameworks}{~~~~Pytorch, Tensorflow, Flask, Keras, PARL, Huggingface}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~ Docker, GIT, MySQL}
+% 	\resumeSubItem{Platforms}{~~~~~~~Linux, Web, Windows, Arduino, Raspberry, AWS, GCP, Alibaba Cloud, IBM Cloud}
+% 	\resumeSubItem{Soft Skills}{~~~~~~~Leadership, Event Management, Writing, Public Speaking, Time Management}
+
+% \vspace{-5pt}
+% \section{Volunteer Experience}
+%   \resumeSubHeadingListStart
+% 	\resumeSubheading
+%     {Community Lead at Developer Student Clubs NSEC}{Kolkata, India}
+%     {Conducted online and offline technical \& soft-skills training impacting over 3000 students.}{Jan 2019 - Present}
+% \vspace{5pt}
+%     % \vspace{10pt}\textbf{\large{Community Experience}}
+%     \resumeSubheading
+%     {Event Organizer at Google Developers Group Kolkata}{Kolkata, India}
+%     {Organized events, conducted workshops and delivered workshops reaching over 7000 developers.}{Jan 2018 - Present}
+
+% \resumeSubHeadingListEnd
+
+  
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Contributing to Open Source RL Project: \href{https://github.com/PaddlePaddle/PARL}{PARL}} {Remote}
+    {Contributor (Part-time)}{Mar 2022 - Apr 2022}
+    \resumeItemListStart
+        \resumeItem{Upgrading the MADDPG module}
+          {Adopting MADDPG algorithm to its discrete version. }
+          \resumeItem{Bug fixing of policy distribution module}
+        {Fixing the log computation error of Diagonal Gaussian policy}
+        %   \resumeItem{Big fixing of MADDPG modu}
+        %   {Symphony \& Twig based Forum parts converted to API-first interface.}
+        %   \resumeItem{Ratchet PHP WebSocket}{Implemented a WebSocket for low-latency real time exchange of posts and thread updates.}
+      \resumeItemListEnd
+    % \vspace{-5pt}
+    \resumeSubheading
+		{Tsinghua University(SZ): \href{https://gitee.com/ascend/modelzoo}{Ascend-ModelZoo}}{Remote}
+		{Research Intern (Part-time) Advised by Prof. Chun Yuan.}{June 2021 - Aug 2021}
+		\resumeItemListStart
+        \resumeItem{Code reproduce}
+          {Implement Circle Loss using TensorFlow and contribute to ascend modelzoo.}
+		\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\section{Academic Services}
+\begin{description}[font=$\bullet$]
+\item {KDD/ECCV/IJCAI (Sub)Reviewer, 2022}
+% \vspace{-5pt}
+% \item { Reviewer, 2022}
+% \vspace{-5pt}
+% \item {IJCAI Reviewer, 2022}
+\end{description}
+
+
+\end{document}
