@@ -11,7 +11,7 @@ main:
 #    url: '#recent-news'
 #    weight: 20
   - name: Posts
-    url: https://www.zhihu.com/people/lyx-55-20/posts
+    url: https://www.cnblogs.com/YiXinLiu617/
     weight: 20
   - name: Publications
     url: '#publications'
