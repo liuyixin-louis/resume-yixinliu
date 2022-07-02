@@ -10,7 +10,7 @@ main:
 #  - name: Recent News
 #    url: '#recent-news'
 #    weight: 20
-  - name: Posts
+  - name: Blogs
     url: https://www.cnblogs.com/YiXinLiu617/
     weight: 20
   - name: Publications
